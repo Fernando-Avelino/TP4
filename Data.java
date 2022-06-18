@@ -25,7 +25,7 @@ Data
 + mostra2(): String
 + bissexto(): boolean
 + diasTranscorridos(): int
-+ apresentaDataAtual ():void
++ apresentaDataAtual ():void 
 
 Fernando Avelino da Silva CB3008053
 Vinícius Lopes Nunes      CB1640879
